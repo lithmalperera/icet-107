@@ -1,6 +1,7 @@
 body,header{
     margin: 0;
     background-color: rgb(240, 236, 231);
+    width:100%;
 
 }
 .sitename{
